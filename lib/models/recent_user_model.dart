@@ -8,7 +8,7 @@ class RecentUser {
 List recentUsers = [
   RecentUser(
     icon: "assets/icons/xd_file.svg",
-    name: "Deniz Çolak",
+    name: "Cristofer Zerpa",
     role: "Software Architect",
     email: "de***ak@huawei.com",
     date: "01-03-2021",
